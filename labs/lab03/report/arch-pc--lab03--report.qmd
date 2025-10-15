@@ -25,28 +25,22 @@ license: "CC BY"
 # Выполнение лабораторной работы
 
 Перейдём в каталог arch-pc.
-
-![Переход в каталог](/image/Переход в каталог.jpg){#fig-001 width=70%}
+![Переход в каталог](/afs/.dk.sci.pfu.edu.ru/home/s/s/ssgayjduk1/arch-pc/labs/lab03/report/image/Переход в каталог.jpg){#fig-001 width=70%}
 
 Обновим локальный репозиторий с помощью команды git pull.
-
-![Обновление локального репозитория](/image/Обновление локального репозитория.jpg){#fig-002 width=70%}
+![Обновление локального репозитория](/afs/.dk.sci.pfu.edu.ru/home/s/s/ssgayjduk1/arch-pc/labs/lab03/report/image/Обновление локального репозитория.jpg){#fig-002 width=70%}
 
 Перейдём в каталог с шаблоном лабораторной работы №3
-
-![Перешли в каталог с отчётом по лабораторной работе №3](/image/Перешли в каталог с отчётом по лабораторной работе №3.jpg){#fig-003 width=70%}
+![Перешли в каталог с отчётом по лабораторной работе №3](/afs/.dk.sci.pfu.edu.ru/home/s/s/ssgayjduk1/arch-pc/labs/lab03/report/image/Перешли в каталог с отчётом по лабораторной работе №3.jpg){#fig-003 width=70%}
 
 Проведём компиляцию шаблона с использованием Makefile команда make и проверим файлы.
-
-![Проведение компиляции](/image/Проведение компиляции.jpg){#fig-004 width=70%}
+![Проведение компиляции](/afs/.dk.sci.pfu.edu.ru/home/s/s/ssgayjduk1/arch-pc/labs/lab03/report/image/Проведение компиляции.jpg){#fig-004 width=70%}
 
 Удалим файлы report.pdf и report.docx и проверим их удаление.
-
-![Удаление файлов](/image/Удаление файлов.jpg){#fig-005 width=70%}
+![Удаление файлов](/afs/.dk.sci.pfu.edu.ru/home/s/s/ssgayjduk1/arch-pc/labs/lab03/report/image/Удаление файлов.jpg){#fig-005 width=70%}
 
 Откроем файл arch-pc--lab03--report.qmd с помощью gedit. 
-
-![Откроем файл с помощью gedit](/image/Откроем файл с помощью gedit.jpg){#fig-006 width=70%}
+![Откроем файл с помощью gedit](/afs/.dk.sci.pfu.edu.ru/home/s/s/ssgayjduk1/arch-pc/labs/lab03/report/image/Откроем файл с помощью gedit.jpg){#fig-006 width=70%}
 
 # Выводы
 
