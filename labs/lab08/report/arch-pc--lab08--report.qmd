@@ -101,6 +101,13 @@ license: "CC BY"
 
 ![image18](image/image18.jpg){#fig-018 width=70%}
 
+Отправим файлы на Github ([рис. @fig-019, @fig-020]).
+
+![image19](image/image19.jpg){#fig-019 width=70%}
+
+
+![image20](image/image20.jpg){#fig-020 width=70%}
+
 # Выводы
 
 Мы приобрели навыки написания программ с использованием циклов и обработкой аргументов командной строки.
